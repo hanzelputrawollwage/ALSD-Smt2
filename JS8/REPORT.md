@@ -5,7 +5,7 @@
 | Kelas | TI - 1I |
 | Repository | [link] (https://github.com/hanzelputrawollwage/ALSD-Smt2)|
 
-# JOB SHEET 6 REPORT
+# JOB SHEET 10 REPORT
 
 # 2.1 Experiment 1: Assignment Submission
 
